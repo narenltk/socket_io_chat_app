@@ -1,0 +1,19 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "Narenltk trial",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Narendiran Krishnan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
