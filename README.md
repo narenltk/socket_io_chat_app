@@ -1,5 +1,6 @@
 # socket io chat application
-Chat app using the Node JS, Socket IO and Express
+
+### Chat app using the Node JS, Socket IO and Express
 
 Here you can get the code for creating your own chat app.
 
